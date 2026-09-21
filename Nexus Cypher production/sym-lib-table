@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PE4259")(type "KiCad")(uri "C:/Users/Hp/Downloads/48b5b2347d8813ecea3e724b2366a884b0436fe5_rf_switch_extended")(options "")(descr "")(disabled)(hidden))
+  (lib (name "RF_Switch_Extended")(type "KiCad")(uri "C:/Users/Hp/Downloads/48b5b2347d8813ecea3e724b2366a884b0436fe5_rf_switch_extended/RF_Switch_Extended.kicad_sym")(options "")(descr ""))
+)
