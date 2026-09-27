@@ -7,8 +7,8 @@
 ![PCB](https://img.shields.io/badge/PCB-4--layer-lightgrey)
 
 A custom PCB for long range radio frequency (LoRa) communication, built around an RP2040 and a Semtech SX1262 radio.
+<img width="587" height="657" alt="Screenshot 2026-09-21 153059" src="https://github.com/user-attachments/assets/bb423f98-a75b-4b43-9cc4-c00d4f99078e" />
 
-<img width="1919" height="994" alt="586521596-9046c32f-5b22-47ef-8fc6-dc9d4684b6b3" src="https://github.com/user-attachments/assets/5b8f4d88-1a5a-4766-a757-580fe2bf0af0" />
 
 
 ## Overview
@@ -39,7 +39,8 @@ From there, I moved on to placing components and routing the PCB myself.
 <img width="681" height="667" alt="Screenshot 2026-03-30 202426" src="https://github.com/user-attachments/assets/05cb9698-a56c-4158-9b60-93e01ff10650" />
 
 RF signal paths need to be straight and length-matched, which made that part of the routing genuinely tricky — it took about 2 days to fully route the board. Once the hardware was done, I wrote the firmware to bring it to life.
-<img width="654" height="789" alt="586521048-e3c543b0-8557-4793-b198-113bbf8ba515" src="https://github.com/user-attachments/assets/7671cec8-27ec-484f-945e-1c2f2b4abbb9" />
+<img width="657" height="627" alt="image" src="https://github.com/user-attachments/assets/9edbfd49-4605-4430-aa8a-c78076ee55db" />
+
 ## Getting It Built
 
 The RP2040, SX1262, and flash chip are all fine-pitch QFN parts, so this isn't a hand-soldering job — it needs PCBA (assembled by the fab) rather than a bare PCB.
