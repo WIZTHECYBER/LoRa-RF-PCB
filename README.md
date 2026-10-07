@@ -13,9 +13,12 @@ A custom PCB for long range radio frequency (LoRa) communication, built around a
 
 ## Overview
 
-I saw a guideline for a LoRa RF devboard in Hack Club Blueprint and decided to make my own. This is a self-contained board — MCU, radio, and flash all on one PCB, powered and programmed over USB-C.
+I saw a guideline for a LoRa RF devboard in Forge Blueprint and decided to make my own. I did made schematics with help of AI and then designed and routed the PCB myself!!
 
-## Schematics Breakdown
+###This PCB contains following components###
+|MCU, radio, and flash all on one PCB, powered and programmed over USB-C.|
+
+## Schematics Components 
 
 | Part | Role |
 |---|---|
@@ -33,7 +36,7 @@ I saw a guideline for a LoRa RF devboard in Hack Club Blueprint and decided to m
 
 ## Build Journey
 
-This was my first time working with a 4-layer PCB, and it showed me why layer count matters — figuring it out took a while, but I learned a lot along the way. I used **Gemini** for help with the schematics and component routing.
+This was my first time working with a 4-layer PCB, and it showed me why layer count matters — figuring it out took a while, but I learned a lot along the way. I used **Gemini** for help with the schematics.
 
 From there, I moved on to placing components and routing the PCB myself. 
 <img width="681" height="667" alt="Screenshot 2026-03-30 202426" src="https://github.com/user-attachments/assets/05cb9698-a56c-4158-9b60-93e01ff10650" />
@@ -85,7 +88,7 @@ The RP2040, SX1262, and flash chip are all fine-pitch QFN parts, so this isn't a
 
 ## AI Use
 
-Being upfront about it: I used Gemini for help with component selection and schematic routing, did the PCB design and routing myself, and used Claude to help me write readme.
+Being upfront about it: I used Gemini for help with component selection and schematic routing, did the PCB design and routing myself!!.
 
 ## License
 
