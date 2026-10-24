@@ -7,7 +7,8 @@
 ![PCB](https://img.shields.io/badge/PCB-4--layer-lightgrey)
 
 A custom PCB for long range radio frequency (LoRa) communication, built around an RP2040 and a Semtech SX1262 radio.
-<img width="587" height="657" alt="Screenshot 2026-09-21 153059" src="https://github.com/user-attachments/assets/bb423f98-a75b-4b43-9cc4-c00d4f99078e" />
+<img width="537" height="637" alt="Screenshot 2026-10-17 182246" src="https://github.com/user-attachments/assets/da302d92-6e96-4a80-9c5d-eaccd4dc8afe" />
+
 
 
 
