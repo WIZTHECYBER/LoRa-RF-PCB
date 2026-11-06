@@ -7,7 +7,7 @@
 ![PCB](https://img.shields.io/badge/PCB-4--layer-lightgrey)
 
 A custom PCB for long range radio frequency (LoRa) communication, built around an RP2040 and a Semtech SX1262 radio.
-<img width="547" height="662" alt="image" src="https://github.com/user-attachments/assets/a6cb6b20-7b69-4c80-8ccf-2a283f05d6d7" />
+<img width="602" height="700" alt="image" src="https://github.com/user-attachments/assets/f7a6a140-3842-4a5d-8f85-589ddeb2cd38" />
 
 <img width="537" height="637" alt="Screenshot 2026-10-17 182246" src="https://github.com/user-attachments/assets/da302d92-6e96-4a80-9c5d-eaccd4dc8afe" />
 
@@ -47,7 +47,7 @@ From there, I moved on to placing components and routing the PCB myself.
 RF signal paths need to be straight and length-matched, which made that part of the routing genuinely tricky — it took about 2 days to fully route the board. Once the hardware was done, I wrote the firmware to bring it to life.
 <img width="436" height="497" alt="image" src="https://github.com/user-attachments/assets/abf0dda7-fe0c-4ddb-a36c-654d4d39efc1" />
 
-<img width="547" height="662" alt="image" src="https://github.com/user-attachments/assets/cbf40a62-d845-487c-8979-8beebfd60795" />
+<img width="602" height="700" alt="image" src="https://github.com/user-attachments/assets/f52b4504-0d4d-4d99-a411-5e0d5beb2313" />
 
 
 ## Bill of Materials (BOM)
